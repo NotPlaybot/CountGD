@@ -1,0 +1,16 @@
+cython
+submitit
+scipy
+termcolor
+addict
+yapf
+timm
+torch
+torchvision
+transformers
+numpy
+opencv-python
+supervision
+pycocotools
+pyyaml
+colorlog
